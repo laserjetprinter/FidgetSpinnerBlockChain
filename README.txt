@@ -1,9 +1,9 @@
 Created by: Natalie Davis 3/21/2018
 
-The following code creates a simple block chain, which creates blocks from input
-files. The data from the file is taken in and stored in the blocks as strings.
-The data in the input file is various sensor data - taken from a electromagnetic
-fidget spinner.
+The following code creates a simple block chain, which generates blocks from the 
+input.txt file. The data from the file is taken in and stored in the blocks as strings.
+The input is various sensor data - taken from an electromagnetic fidget spinner. However,
+data can be altered to fit need of any verification need.
 
 To compile the program run the following code on the command line:
 
